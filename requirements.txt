@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Psycopg2-binary
+Flask-Migrate
+python-dotenv
+Flask-jwt-Extended
+marshmallow
+marshmallow-sqlalchemy
+Werkzeug
+flask_cors
